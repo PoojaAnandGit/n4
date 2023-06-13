@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeNewP11
+  gitServerName: gitS1
+  gitUrl: https://github.com/PoojaAnandGit/n4
+  gitUsername: PoojaAnandGit
+  gitToken: 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
+  gitBranch: master
